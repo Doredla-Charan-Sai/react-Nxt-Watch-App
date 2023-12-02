@@ -37,7 +37,7 @@ const SavedVideos = () => (
           />
           <FailureText isDark={isDark}>No saved videos found</FailureText>
           <FailurePara isDark={isDark}>
-            Save your videos by clicking a button
+            You can save your videos while watching them
           </FailurePara>
         </FailureDiv>
       )
